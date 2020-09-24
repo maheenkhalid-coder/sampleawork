@@ -4,9 +4,8 @@ import './App.css';
 function App() {
   return (
     <div>
-      MAHEEN KHALID
+      <h1>MAHEEN KHALID</h1>
     </div>
   );
 }
-
 export default App;
